@@ -1,1 +1,1 @@
-Copy-Itme "c:\Users\test\AppData\Local\nvim\init.vim 
+Copy-Item "c:\Users\test\AppData\Local\nvim\init.vim" C:\gd\gitrepogd\nvim
