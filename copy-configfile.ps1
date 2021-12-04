@@ -1,0 +1,1 @@
+Copy-Itme "c:\Users\test\AppData\Local\nvim\init.vim 
